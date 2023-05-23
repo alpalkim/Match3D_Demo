@@ -1,0 +1,4 @@
+repository "Santa Very First Release@LostCTRLSideStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
